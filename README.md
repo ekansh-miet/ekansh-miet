@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekansh-miet
 - 👀 I’m interested in coding and hacking   
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java and c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email
 
