@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ekansh-miet
+- 👋 Hi, I’m ekansh
 - 👀 I’m interested in coding and hacking   
 - 🌱 I’m currently learning java and c++
 - 💞️ I’m looking to collaborate on ...
